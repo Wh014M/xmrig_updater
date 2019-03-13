@@ -11,7 +11,7 @@ Updating functionality for xmrig miners.
 * Call xmrig_updater.exe before running xmrig.exe. 
 It will install the latest version everytime. 
 
- # Download
+ # ⬇️ Download
  Download the latest releases from the link below
  https://github.com/lukacci/xmrig_updater/releases/tag/Releases
  
