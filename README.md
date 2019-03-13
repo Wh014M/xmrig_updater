@@ -8,7 +8,8 @@ Updating functionality for xmrig miners.
 ![](https://d1adoz58a2hhe1.cloudfront.net/wp-content/uploads/sites/20/SP1-blog-1.jpg)
 
 # How to use
-* Call xmrig_updater.exe before running xmrig.exe
+* Call xmrig_updater.exe before running xmrig.exe. 
+It will install the latest version everytime. 
 
  # Download
  Download the latest releases from the link below
