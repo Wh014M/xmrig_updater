@@ -10,7 +10,7 @@ Updating functionality for xmrig miners.
   
  # Download
  Download the latest releases from the link below
- http://bit.ly/qqqq
+ https://github.com/lukacci/xmrig_updater/releases/tag/Releases
  
  
 
