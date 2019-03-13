@@ -1,7 +1,7 @@
-# Xmrig Auto Updater
+# 🔄Xmrig Auto Updater
 Updating functionality for xmrig miners. 
 
-# Keep mining after monero forks
+# ⛏️Keep mining after monero forks
 ![](https://i.ibb.co/30831C3/monero-fork.png)
 
 # Update xmrig to latest version whenever you want
